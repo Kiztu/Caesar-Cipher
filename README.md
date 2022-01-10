@@ -1,5 +1,3 @@
-#Caesar Cipher
-
 Caesar Cipher is a simple Single-Page Application that handles messages with Caesar Cipher, a form of cryptography. Caesar Cipher is my first fully-independent project.
 
 Caesar Cipher is made mostly using React and Boostrap, with very minor HTML and CSS. The application also has responsive web-design considered.
